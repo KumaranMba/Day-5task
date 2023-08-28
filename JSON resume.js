@@ -14,7 +14,7 @@
     "PG":{
         "college_name":"G.R.DAMODARAN ACADEMY OF MANAGEMENT",
         "studies":"MASTER OF BUSINESS ADMINISTRATION(Finance & Marketing)",
-        "CGPA":80.0
+        "CGPA":8.0
     },
     "UG":
     {
@@ -26,12 +26,12 @@
     {
         "college_name":"Sri Ramakrishna polytechnic College",
         "studies":"Diploma in Automobile Engineering ",
-        "CGPA":8
+        "CGPA":8.0
     },
     "SSLC":
     {
         "School_name":"RK SRI RKN HSS CBE",
-        "CGPA":7
+        "CGPA":7.5
     }
 },
     "Projects":{
